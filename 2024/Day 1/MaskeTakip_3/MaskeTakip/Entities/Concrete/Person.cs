@@ -12,6 +12,6 @@ namespace Entities.Concrete
 
         public long NationalIdentity { get; set; }
 
-        public  int DateOfBirthYear { get; set; }   
+        public  int DateOfBirthYear { get; set; }    
     }
 }

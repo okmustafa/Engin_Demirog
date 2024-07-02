@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. Gün\\MaskeTakip_3\\MaskeTakip\\WorkAround\\WorkAround.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\Day 1\\MaskeTakip_3\\MaskeTakip\\WorkAround\\WorkAround.csproj",
       "projectName": "WorkAround",
-      "projectPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. Gün\\MaskeTakip_3\\MaskeTakip\\WorkAround\\WorkAround.csproj",
+      "projectPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\Day 1\\MaskeTakip_3\\MaskeTakip\\WorkAround\\WorkAround.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. Gün\\MaskeTakip_3\\MaskeTakip\\WorkAround\\obj\\",
+      "outputPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\Day 1\\MaskeTakip_3\\MaskeTakip\\WorkAround\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

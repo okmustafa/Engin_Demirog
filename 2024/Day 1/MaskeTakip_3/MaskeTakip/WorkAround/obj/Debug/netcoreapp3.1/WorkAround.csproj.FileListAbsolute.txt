@@ -12,3 +12,17 @@ C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\1. Gün\MaskeTakip_
 C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\1. Gün\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.dll
 C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\1. Gün\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.pdb
 C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\1. Gün\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\bin\Debug\netcoreapp3.1\WorkAround.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\bin\Debug\netcoreapp3.1\WorkAround.deps.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\bin\Debug\netcoreapp3.1\WorkAround.runtimeconfig.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\bin\Debug\netcoreapp3.1\WorkAround.runtimeconfig.dev.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\bin\Debug\netcoreapp3.1\WorkAround.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\bin\Debug\netcoreapp3.1\WorkAround.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.sourcelink.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\WorkAround\obj\Debug\netcoreapp3.1\WorkAround.genruntimeconfig.cache
