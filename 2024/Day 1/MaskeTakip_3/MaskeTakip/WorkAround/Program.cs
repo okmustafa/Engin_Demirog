@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Business.Concrete;
+using Entities.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Dynamic;
@@ -55,7 +57,15 @@ namespace WorkAround
             sehirler1[0] = "Adana";
             Console.WriteLine(sehirler2[0]);
 
-            //Person person1 = new Person { FirstName = "Engin" };
+            // Person person1 = new Person { FirstName = "MUSTAFA" };
+
+            Person person1 = new Person();
+            person1.FirstName = "MUSTAFA";
+            person1.LastName = "OK";
+            person1.NationalIdentity = 123;
+            person1.DateOfBirthYear = 1995;
+
+
 
             //Person person2 = new Person();
             //person2.FirstName = "Murat";
@@ -74,10 +84,13 @@ namespace WorkAround
             yeniSehirler1.Add("Adana 1");
 
             foreach (var sehir in yeniSehirler1)
-            { Console.WriteLine(sehir); }
+            {
+                Console.WriteLine(sehir);
+            }
 
 
-
+            PttManager pttManager = new PttManager(new PersonManager());
+            pttManager.GiveMask(person1);
 
             Console.ReadLine();
         }

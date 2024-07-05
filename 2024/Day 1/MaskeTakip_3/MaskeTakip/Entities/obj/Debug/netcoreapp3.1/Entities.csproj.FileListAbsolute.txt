@@ -1,0 +1,10 @@
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\obj\Debug\netcoreapp3.1\Entities.sourcelink.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\Day 1\MaskeTakip_3\MaskeTakip\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
