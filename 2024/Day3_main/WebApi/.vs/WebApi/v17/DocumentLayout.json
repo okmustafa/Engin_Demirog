@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CC9CEF-B40D-4940-99FF-0807DD432EBE}|WebApi\\WebApi.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CC9CEF-B40D-4940-99FF-0807DD432EBE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CC9CEF-B40D-4940-99FF-0807DD432EBE}|WebApi\\WebApi.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CC9CEF-B40D-4940-99FF-0807DD432EBE}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|solutionrelative:business\\abstracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B435B7-7527-47BA-8B96-3D41A8B3C03F}|Entities\\Entities.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\entities\\concretes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B435B7-7527-47BA-8B96-3D41A8B3C03F}|Entities\\Entities.csproj|solutionrelative:entities\\concretes\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDC1067-4234-4414-ACB4-B599ED7AEE33}|DataAccess\\DataAccess.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDC1067-4234-4414-ACB4-B599ED7AEE33}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concretes\\branddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\business\\concretes\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|solutionrelative:business\\concretes\\brandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\business\\dtos\\requests\\createbrandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|solutionrelative:business\\dtos\\requests\\createbrandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\business\\dtos\\responses\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456C2609-1284-4F45-BBC1-18D5F200ABAB}|Business\\Business.csproj|solutionrelative:business\\dtos\\responses\\getallbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDC1067-4234-4414-ACB4-B599ED7AEE33}|DataAccess\\DataAccess.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\dataaccess\\abstracts\\ibranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDC1067-4234-4414-ACB4-B599ED7AEE33}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstracts\\ibranddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425F53C9-3CA3-4A14-9F99-A08646924DAC}|Core\\Core.csproj|c:\\users\\4485074\\source\\repos\\myprojects\\engin_demirog\\2024\\day3_main\\webapi\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425F53C9-3CA3-4A14-9F99-A08646924DAC}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:02:32.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\WebApi\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:27:23.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllBrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\GetAllBrandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:14:55.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrandManager.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Concretes\\BrandManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concretes\\BrandManager.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Concretes\\BrandManager.cs",
+              "RelativeToolTip": "Business\\Concretes\\BrandManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:34:33.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatedBrandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "RelativeToolTip": "Business\\Dtos\\Responses\\CreatedBrandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:12:26.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBrandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "RelativeDocumentMoniker": "Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "RelativeToolTip": "Business\\Dtos\\Requests\\CreateBrandRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:10:40.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Abstracts\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Business\\Abstracts\\IBrandService.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IBrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:23:52.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandDal.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\DataAccess\\Concretes\\BrandDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concretes\\BrandDal.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\DataAccess\\Concretes\\BrandDal.cs",
+              "RelativeToolTip": "DataAccess\\Concretes\\BrandDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:10:33.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBrandDal.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstracts\\IBrandDal.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\DataAccess\\Abstracts\\IBrandDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstracts\\IBrandDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:17:57.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:11:52.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Entities\\Concretes\\Brand.cs",
+              "RelativeDocumentMoniker": "Entities\\Concretes\\Brand.cs",
+              "ToolTip": "C:\\Users\\4485074\\source\\repos\\MyProjects\\Engin_Demirog\\2024\\Day3_main\\WebApi\\Entities\\Concretes\\Brand.cs",
+              "RelativeToolTip": "Entities\\Concretes\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:04:30.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
