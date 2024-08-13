@@ -20,7 +20,7 @@ public class BrandManager : IBrandService
         _brandDal = brandDal;
     }
 
-    public CreatedBrandResponse Add(CreateBrandRequest createBrandRequest)
+    public CreatedBrandResponse Add(CreateBrandRequest createBrandRequest)  //Command-Create
     {
         //business rules
 
@@ -42,7 +42,7 @@ public class BrandManager : IBrandService
         return createdBrandResponce;
     }
 
-    public List<GetAllBrandResponse> GetAll()
+    public List<GetAllBrandResponse> GetAll() //Query-Read
     {
        List<Brand> brands = _brandDal.GetAll();
 
